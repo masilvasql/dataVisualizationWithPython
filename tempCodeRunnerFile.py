@@ -1,0 +1,2 @@
+except:
+    warning = 1
